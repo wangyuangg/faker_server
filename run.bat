@@ -10,5 +10,5 @@ echo Syncing dependencies...
 uv sync
 
 echo Starting Fake Server...
-uv run python fake_server_hijack.py
+uv run app.py
 pause

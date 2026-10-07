@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Xmake generated state and build output
+.xmake/
+build/
+
+# C/C++ compiler artifacts
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.exe
+*.d
+
+# Visual Studio / MSBuild generated files
+vsxmake*/
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+ipch/
+
+# VS Code and language-server caches
+**/.vscode/.cache/
+compile_commands.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Local run artifacts (server stdout/stderr/pid captures)
+_run_*.out
+_run_*.err
+_run_*.pid

@@ -4,7 +4,11 @@ version = "0.1.0"
 requires-python = ">=3.10"
 dependencies = [
     "fastapi>=0.115",
-    "uvicorn[standard]>=0.34",
+    "uvicorn>=0.34",
     "httpx>=0.28",
     "loguru>=0.7",
 ]
+
+[tool.uv]
+# 只用系统安装的 Python，不让 uv 下载托管版本
+python-preference = "only-system"

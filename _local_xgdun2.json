@@ -1,0 +1,142 @@
+{
+  "results": [
+    {
+      "target": "127.0.0.1:8788",
+      "cdkey": "REDACTED",
+      "version": "41234",
+      "cdkeyLogin": {
+        "envelope": {
+          "status": 200,
+          "msg": "OK",
+          "data": "726ABD7D319CA421D65F31F5022C4EF6207CEFDC0AC87B7EF9012949EA3F67FCC215C16E68E110315DE2237EEFC516915F66C641601586713B9E9C53FE776BF31C285BF4347BEED41FFE2925BF70676AE9007EFCD505CB7F69F5083B4AF62772EBD601CF6078F31D3A55EA206BF6D702D56B6EF71C306AFF000DA09250FE7758B9461B54C1453DA09453FE775802BCA791A3884DE3E36585231BB8416015860065DDD313CE6B67F5052459F7027DEFCB10CF7769F137256AB74333A38821D66D64F458"
+        },
+        "data": {
+          "nonce": "{175F5B30-94FD-40A9-8CC6-32EE85AA10D5}",
+          "timestamp": 1791376415,
+          "token": "1C4F7B31-BB5E-47B3-B78C-9BD96A964399",
+          "boss": "ms",
+          "group": "普通",
+          "finaltime": "2026-10-14 20:33:35",
+          "tally": 0.0
+        }
+      },
+      "xgdun2": [
+        {
+          "selector": "M",
+          "envelope": {
+            "status": 200,
+            "msg": "OK",
+            "data": "726ABD7D319CA421D65F31F5002958EB2B78FADC15D8786CF901315BF03F6EE8C800C1757EF61D295AE6307FFCD314915F66C641601586713B9E9C53FE776BF31C285BF4347BEED41FFE2B1BB8405C6AE900799AD661B86B19ED06295A82317BF6D314CA196AF51C5D2EF23767EDD70BBA1958A9"
+          },
+          "data": {
+            "nonce": "{1500897E-6DE6-4833-A79C-8D2802E20C27}",
+            "timestamp": 1791376415,
+            "value": "6e7bd6c9302a349276d019df158268fd"
+          },
+          "accepted": true,
+          "value": "6e7bd6c9302a349276d019df158268fd",
+          "client_gate": "vmp-2026-10-06T21:16"
+        },
+        {
+          "selector": "1",
+          "envelope": {
+            "status": 200,
+            "msg": "OK",
+            "data": "726ABD7D319CA421D65F31F4003141F4207EF7DC14DF6968F9013C5EEB3F66EEC415C1686BF0043F4DE12479F7C207915F66C641601586713B9E9C53FE776BF31C285BF4347BEED41FFE2B1BB8405C6AE900679BA016D41C73F0072E5AF232669BA265B86D1CF0712D5CF34066E8A40BBE1858A9"
+          },
+          "data": {
+            "nonce": "{05897B18-7C42-4E68-91E6-5141FEBF68CD}",
+            "timestamp": 1791376415,
+            "value": "8da58a94272109dcfd0f4d440b97e8be"
+          },
+          "accepted": true,
+          "value": "8da58a94272109dcfd0f4d440b97e8be",
+          "client_gate": "vmp-2026-10-06T21:18"
+        },
+        {
+          "selector": "2",
+          "envelope": {
+            "status": 200,
+            "msg": "OK",
+            "data": "726ABD7D319CA421D65F31EC143B5CF7217DE8DC0ACE6D6CF9012E5EE63F6EEAC312C17E6BF4032C5AE0276AFAC315915F66C641601586713B9E9C53FE776BF31C285BF4347BEED41FFE2B1BB8405C6AE9000D9BD416BF6F6DEC023159F44109EAA215CA6D72F0065C29F4327DEDD665B96858A9"
+          },
+          "data": {
+            "nonce": "{8AB44C27-9206-476E-A5B1-C10652CEEEB6}",
+            "timestamp": 1791376415,
+            "value": "bd55c2787817cf5c660843ea70227fe5"
+          },
+          "accepted": true,
+          "value": "bd55c2787817cf5c660843ea70227fe5",
+          "client_gate": "vmp-2026-10-07T18:10"
+        },
+        {
+          "selector": "3",
+          "envelope": {
+            "status": 200,
+            "msg": "OK",
+            "data": "726ABD7D319CA421D65F31F0132F58E0357DFEDC13D9697BF9013C59E23F66F6D502C16E78F6163F4DF72779FDD415915F66C641601586713B9E9C53FE776BF31C285BF4347BEED41FFE2B1BB8405C6AE900799ED162D56B6A8601285D86477BF6C914B8756C8105282C80327AECD466D46A58A9"
+          },
+          "data": {
+            "nonce": "{4F60C72A-0E4A-4E1A-994A-3B2CFE4E6B56}",
+            "timestamp": 1791376415,
+            "value": "6a0a960b415ee4987d86e01dc0535e87"
+          },
+          "accepted": true,
+          "value": "6a0a960b415ee4987d86e01dc0535e87",
+          "client_gate": "vmp-2026-10-07T19:46"
+        },
+        {
+          "selector": "4",
+          "envelope": {
+            "status": 200,
+            "msg": "OK",
+            "data": "726ABD7D319CA421D65F31EC042A4DE2267FFEDC07CF696CF9013D5FF43F66F9D412C1756DF3013A5AEA377FE9D211915F66C641601586713B9E9C53FE776BF31C285BF4347BEED41FFE2B1BB8405C6AE9000BEAD217BD6968F51D5A5CEA2A79EAD060BF186F81035B41F341799CD411CC6A58A9"
+          },
+          "data": {
+            "nonce": "{813EAD0A-D346-4D77-9F51-8774C2950632}",
+            "timestamp": 1791376415,
+            "value": "d534a4218c498651cce5e6b90c6c5207"
+          },
+          "accepted": true,
+          "value": "d534a4218c498651cce5e6b90c6c5207",
+          "client_gate": null
+        },
+        {
+          "selector": "5",
+          "envelope": {
+            "status": 200,
+            "msg": "OK",
+            "data": "726ABD7D319CA421D65F31E6052F4AE12B7DF9DC14C86E6AF901294BF13F67EAD00AC17F69F41D285AF32A67EEC910915F66C641601586713B9E9C53FE776BF31C285BF4347BEED41FFE2B1BB8405C6AE9000BEAD217BD6968F51D5A5CEA2A79EAD060BF186F81035B41F341789CD411CC6A58A9"
+          },
+          "data": {
+            "nonce": "{B06BB92F-7430-40C2-8519-B30812088183}",
+            "timestamp": 1791376415,
+            "value": "d534a4218c498651cce5e6b90c7c5207"
+          },
+          "accepted": true,
+          "value": "d534a4218c498651cce5e6b90c7c5207",
+          "client_gate": null
+        }
+      ],
+      "logOut": {
+        "envelope": {
+          "status": 200,
+          "msg": "OK",
+          "data": "726ABD7D319CA421D65F31F3013B4DF62A7CEADC17CD6968F901314EEB3F67E9D312C1746DF0012A5AE6276EEAD512915F66C641601586713B9E9C53FE776BF31C285BF4347BEED44E"
+        },
+        "data": {
+          "nonce": "{74BE5835-4142-48F8-8621-974432EEA541}",
+          "timestamp": 1791376415
+        }
+      },
+      "_meta": {
+        "gate_const": 64340.5546875,
+        "runs": 1
+      }
+    }
+  ],
+  "summary": {
+    "gate_pass": 0,
+    "n": 1
+  }
+}
